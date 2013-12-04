@@ -12,6 +12,7 @@ __version__ = "0.3.0"
 __maintainer__ = "Gregory Ditzler"
 __email__ = "gregory.ditzler@gmail.com"
 __status__ = "development"
+__about__ = "Parse biom and map files without QIIME or BIOM-format"
 
 def load_biom(fname):
   """
